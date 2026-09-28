@@ -1,6 +1,6 @@
 # Engineering Mini App — Mass–Spring–Damper
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23005871.svg)](https://doi.org/10.5281/zenodo.23005871)
+[[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23005871.svg)](https://doi.org/10.5281/zenodo.23005871)
 
 ## Version 1.0
 
